@@ -1,0 +1,8 @@
+pandas
+numpy
+ipykernel
+Flask
+streamlit
+seaborn
+pickle
+scikit-learn
